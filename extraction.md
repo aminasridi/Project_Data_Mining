@@ -1,4 +1,4 @@
-1. Extraction des données Twitter<br>
+      1. Extraction des données Twitter<br>
 Afin d'extraire des tweets pour une analyse,on va accéder à un compte « Twitter Developer » et créer une application.<br>
 On va Télécharger les Tweets en utilisant l’API de twitter.Pour cela,on va télécharger au moins 10 mille tweets.<br>
 À partir de cette application on va utliliser les informations suivantes:
