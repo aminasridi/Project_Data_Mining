@@ -12,8 +12,9 @@
 on a besoin d’une application qui va jouer le rôle d’assistantet qui va effectuer un résumé de toutes ces informations. Une des approches qu’on peut utiliser estde le classer sous former de groupes de sorte à ce qu’on présente à l’utilisateur un seul Tweet de chaque groupe.
 
 ## Contenu :<br>
-1.Extraction des données Twitter<br>
+[1.Extraction des données Twitter](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/extraction.md)<br>
 2.Prétraitement des tweets.<br>
 3.Traitement des tweets : NLP (Natural LanguageProcessing).<br>
 4.Classification des tweets.<br>
 Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)
+
