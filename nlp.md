@@ -7,6 +7,7 @@ on faire :<br>
 2.Retrait des stopwords<br>
 3.Stemming<br>
 4.Vectorizing<br>
+![Capture2](https://user-images.githubusercontent.com/24653616/102357665-dc6e2f00-3fae-11eb-9c0e-52dc4e7552cb.PNG)
 
 
 
