@@ -16,7 +16,7 @@ on a besoin d’une application qui va jouer le rôle d’assistantet qui va eff
 ## Contenu :<br>
 [1.Extraction des données Twitter](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/extraction.md)<br>
 [2.Prétraitement des tweets.](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/pretrai.md)<br>
-[.Traitement des tweets : NLP (Natural LanguageProcessing).](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/nlp.md)<br>
+[3.Traitement des tweets : NLP (Natural LanguageProcessing).](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/nlp.md)<br>
 4.Classification des tweets.<br>
 Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)
 
