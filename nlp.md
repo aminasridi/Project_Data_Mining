@@ -5,8 +5,9 @@ Le NLP (Natural Language Processing) qui désigne un processus d’analyse, de c
 on faire :<br>
 1.Tokenization<br>
 2.Retrait des stopwords<br>
-3.Stemming
-4.Vectorizing
+3.Stemming<br>
+4.Vectorizing<br>
+
 
 
  
