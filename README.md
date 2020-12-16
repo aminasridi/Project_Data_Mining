@@ -16,3 +16,4 @@ on a besoin d’une application qui va jouer le rôle d’assistantet qui va eff
 2.Prétraitement des tweets.<br>
 3.Traitement des tweets : NLP (Natural LanguageProcessing).<br>
 4.Classification des tweets.<br>
+Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)
