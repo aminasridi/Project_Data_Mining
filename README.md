@@ -7,6 +7,9 @@
 • Appliquer les principes de nettoyage des données.<br>
 • Classer les tweets : regrouper ensemble les tweets qui sont similaires.<br>
 
+## Spécifications :<br>
+on a besoin d’une application qui va jouer le rôle d’assistantet qui va effectuer un résumé de toutes ces informations. Une des approches qu’on peut utiliser estde le classer sous former de groupes de sorte à ce qu’on présente à l’utilisateur un seul Tweet de chaque groupe.
+
 ## Contenu :<br>
 1.Extraction des données Twitter<br>
 2.Prétraitement des tweets.<br>
