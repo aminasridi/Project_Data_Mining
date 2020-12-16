@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selmakhalifa/Project_Data_Mining/main)
+
 ![téléchargement](https://user-images.githubusercontent.com/24653616/102296651-1a873680-3f4e-11eb-9c8a-6d5e629a1812.png)  
 # Project_Data_Mining
 # Thème:Classification des Tweets 
