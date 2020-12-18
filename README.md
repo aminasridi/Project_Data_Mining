@@ -50,3 +50,4 @@ on a besoin d’une application qui va jouer le rôle d’assistantet qui va eff
 </details><br>
 Vous trouverez un fichier  bien structuré contenant le contenu de chaque section [Cliquez ici](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/Data_Mining_Project__khalifa_selma.ipynb)
 
+
