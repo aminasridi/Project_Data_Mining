@@ -4,7 +4,7 @@
 
 ## Je suis Khalifa Selma 3DNI/G2 !!👋
 
-- 🔭 Je viens de lancer le  projet: classification des tweets 
+- 🔭 Je viens de lancer le  projet: Classification des tweets 
 - 🌱 J'apprends actuellement 🤣
 - 🥅 Je suis curieuse,passionné de nouvelles technologies et prete a acquerir des nouvelles compétences
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Spécifications :<br>
+## Spécifications : 📕<br>
 on a besoin d’une application qui va jouer le rôle d’assistantet qui va effectuer un résumé de toutes ces informations. Une des approches qu’on peut utiliser estde le classer sous former de groupes de sorte à ce qu’on présente à l’utilisateur un seul Tweet de chaque groupe.
 
 ---
