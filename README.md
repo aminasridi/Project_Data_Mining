@@ -1,10 +1,17 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/selmakhalifa/Project_Data_Mining/main)
 
 ![téléchargement](https://user-images.githubusercontent.com/24653616/102296651-1a873680-3f4e-11eb-9c8a-6d5e629a1812.png)  
-# Project_Data_Mining
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+## I'm a Husband, Father, Developer, and Teacher!!
+
+
+
+# Project_Data_Mining  
 # Thème:Classification des Tweets 
 
-## Objectifs :<br>
+## Objectifs : 👋<br>  
 • Maitriser l’API de twitter pour l’extraction des tweets.<br>
 • Maitriser la partie NLP (natural language processing) avec NLTK en Python.<br>
 • Appliquer les principes de nettoyage des données.<br>
