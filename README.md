@@ -10,13 +10,14 @@
 
 ### Connectez-vous avec moi:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 <br />
+
 ---
 ![téléchargement](https://user-images.githubusercontent.com/24653616/102296651-1a873680-3f4e-11eb-9c8a-6d5e629a1812.png)  
 
@@ -28,10 +29,14 @@
 • Maitriser la partie NLP (natural language processing) avec NLTK en Python.<br>
 • Appliquer les principes de nettoyage des données.<br>
 • Classer les tweets : regrouper ensemble les tweets qui sont similaires.<br>
+
 ---
+
 ## Spécifications :<br>
 on a besoin d’une application qui va jouer le rôle d’assistantet qui va effectuer un résumé de toutes ces informations. Une des approches qu’on peut utiliser estde le classer sous former de groupes de sorte à ce qu’on présente à l’utilisateur un seul Tweet de chaque groupe.
+
 ---
+
 ## Contenu :<br>➡️ 
 [1.Extraction des données Twitter](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/extraction.md)<br>
 [2.Prétraitement des tweets.](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/pretrai.md)<br>
