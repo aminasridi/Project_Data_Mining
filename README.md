@@ -6,7 +6,7 @@
 
 - 🔭 Je viens de lancer le  projet: Classification des tweets 
 - 🌱 J'apprends actuellement 🤣
-- 🥅 Je suis curieuse,passionné de nouvelles technologies et prete a acquerir des nouvelles compétences
+- 🥅 Je suis curieuse,passionné des nouvelles technologies et prete a acquerir des nouvelles compétences
 
 ### Connectez-vous avec moi:
 
@@ -37,10 +37,10 @@ on a besoin d’une application qui va jouer le rôle d’assistantet qui va eff
 
 ---
 
-## Contenu :<br>
+## Contenu : ➡️<br>
 
 <details>
-  <summary>:zap:➡️ </summary>
+  <summary>:zap: </summary>
   
 <!--START_SECTION:activity-->
 [1.Extraction des données Twitter](https://github.com/selmakhalifa/Project_Data_Mining/blob/main/extraction.md)<br>
